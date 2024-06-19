@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Barbecue95
-- 👀 I’m interested in artificial intelligence..
-- 🌱 I’m currently learning backend-develoopment and servers
+- 👀 I’m a web-developer who is still learning full-stack web-development.
 
 <!---
 Barbecue95/Barbecue95 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
